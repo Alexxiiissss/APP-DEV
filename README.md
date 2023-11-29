@@ -1,2 +1,4 @@
 # APP-DEV
-My first repository
+## My first repository
+My Favorite series is **Anne with an E**
+*Anne with an E has an stunning cinematography. From the vibrant blooms of Avonlea's gardens to the sweeping vistas of the coastlines, the series makes me feel calm. The show's use of soft, muted colors and gentle camera movements creates a serene atmosphere that allows audiences to fully immerse themselves in Anne's story. The natural beauty of the island and the show's attention to detail in set design and costume choices further contribute to the peaceful and nostalgic tone of the series. nne with an E's cinematic video is elevated by the exceptional performances of its cast. From the captivating lead role of Anne Shirley, played by Amybeth McNulty and her other supporting actors, their performances add a layer of emotional resonance to the show.*
